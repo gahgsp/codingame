@@ -20,7 +20,7 @@ int main()
                 mountainIndexToShootAt = i;
             }
         }
-        
+
         cout << mountainIndexToShootAt << endl; // The index of the mountain to fire on.
     }
 }
